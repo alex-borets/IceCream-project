@@ -15,4 +15,4 @@ const o=document.querySelectorAll("[data-link]"),e=document.querySelector(".head
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/slider.js"),require("./js/modal.js"),require("./js/modal-map"),require("./js/mobile-menu.js"),require("./js/accordion-card.js"),require("./js/header-fixed.js");
 },{"./sass/main.scss":"clu1","./js/slider.js":"wzuc","./js/modal.js":"RSqK","./js/modal-map":"zKgj","./js/mobile-menu.js":"sByI","./js/accordion-card.js":"FE0a","./js/header-fixed.js":"ys5n"}]},{},["Focm"], null)
-//# sourceMappingURL=/IceCream-project/src.cbc5570b.js.map
+//# sourceMappingURL=/IceCream-project2/src.6ecb8820.js.map
