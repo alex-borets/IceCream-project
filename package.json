@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://DrevniyMagistr.github.io/ice-cream-eleven-team",
+  "homepage": "https://alex-borets.github.io/IceCream-project",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ice-cream-eleven-team/"
+    "build": "parcel build src/*.html --public-url /IceCream-project/"
   },
   "repository": {
     "type": "git",
